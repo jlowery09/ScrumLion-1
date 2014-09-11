@@ -289,3 +289,17 @@ body {
   color: #CFB472;
   padding: 14px;
 }
+
+.lionhabitat {
+	background: top left url(../images/africa.jpg) no-repeat;
+	height: 200px;
+	width: 700px;
+	margin-left: 350px;
+}
+
+.detailinfo {
+	padding-left: 150px;
+	text-align: left;
+	font-size: 15px;
+	float: left;
+}
